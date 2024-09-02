@@ -1,3 +1,3 @@
-registry.cn-hangzhou.aliyuncs.com/hhyasdf:
+registry.cn-shanghai.aliyuncs.com/bach:
   password: ${ACR_PASSWORD}
   username: $(ACR_USERNAME)
