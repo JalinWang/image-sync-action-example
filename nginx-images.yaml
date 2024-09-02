@@ -1,1 +1,1 @@
-nginx: "registry.cn-hangzhou.aliyuncs.com/hhyasdf/nginx"
+ghcr.io/metalbear-co/mirrord:latest: "registry.cn-shanghai.aliyuncs.com/bach/mirrord:mirrord-latest"
